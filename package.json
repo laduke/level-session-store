@@ -30,7 +30,7 @@
     "cookie-parser": "^1.4.3",
     "dependency-check": "^2.9.1",
     "express": "^4.15.3",
-    "express-session": "^1.15.3",
+    "express-session": "^1.15.6",
     "level": "^1.2.0",
     "request": "^2.81.0",
     "rimraf": "^2.6.1",
